@@ -12,19 +12,9 @@ Here you’ll find my first projects, written in **Python** and related to my **
 
 2. **`My Project`**  
    A Signals and Systems module project from my university course.
+      a. Signals.py containing sinc and rectpulse
+      b. Run.py keeping everything running with the mods on a grid
 
----
 
-## Fun with LaTeX
-
-You can also write equations in Markdown using LaTeX:
-
-Inline example: $e^{i\pi} + 1 = 0$
-
-Block example:
-
-$$
-\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
-$$
 
 
