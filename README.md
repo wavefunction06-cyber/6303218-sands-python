@@ -1,5 +1,30 @@
-﻿# 6303218-sands-python
-### ***WELCOME! This my project Repository!***
-* <i>Here you will find my files and work pertaining to University and Personal Projects, here are the files as follows:</i>
-1. <i>  **Hello.py** is my first text code (just a simple print function)</i>
-2. <i>  **sine.py** is a regular sine function generator </i>
+# Welcome to my repository 🎉
+
+Here you’ll find my first projects, written in **Python** and related to my **university coursework**.
+
+---
+
+## Repository Contents
+
+1. **`hello.py`**  
+   A general print test statement  
+   *(my first project!)*
+
+2. **`My Project`**  
+   A Signals and Systems module project from my university course.
+
+---
+
+## Fun with LaTeX
+
+You can also write equations in Markdown using LaTeX:
+
+Inline example: $e^{i\pi} + 1 = 0$
+
+Block example:
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+
+
