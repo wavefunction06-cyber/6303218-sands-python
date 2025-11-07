@@ -1,4 +1,4 @@
-from signals import mysinc, myrect, mysaw, mystep
+from my_signals import mysinc, myrect, mysaw, mystep
 from mods import (
     modify_sinc,
     modify_rect,

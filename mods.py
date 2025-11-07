@@ -1,5 +1,5 @@
 import numpy as np
-from signals import mysinc, myrect, mysaw, mystep
+from my_signals import mysinc, myrect, mysaw, mystep
 
 def modify_sinc(amplitude=1, offset=0, phase=0, stretch=1):
     """
@@ -30,7 +30,7 @@ def modify_rect(amplitude=1, offset=0, phase=0, width=1):
     return t, y_mod
 
 import numpy as np
-from signals import mysaw, mystep
+from my_signals import mysaw, mystep
 
 def modify_saw(amplitude=1.0, offset=0.0, phase=0.0, stretch=1.0):
     """
