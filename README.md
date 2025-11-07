@@ -77,4 +77,4 @@ A successful test run produces 9 passed tests.
 
 ## Example
 
-![Passed test]("images\Passed_test.png")
+![Passed test]("images/Passed_test.png")
