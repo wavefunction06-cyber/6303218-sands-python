@@ -77,4 +77,4 @@ A successful test run produces 9 passed tests.
 
 ## Example
 
-![Passed test]("C:\Users\crisp\OneDrive\Pictures\Passed_test.png")
+![Passed test]("Images\Passed_test.png")
