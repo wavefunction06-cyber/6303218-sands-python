@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Signal Generation and Processing"
+version = "1.0.0"
+description = "Generate, modify, and analyze signals via modifications and fourier transform"
+authors = [ {name = "Abbas Meerza", email = "wavefunction06@gmail.com"} ]
+dependencies = ["numpy", "matplotlib", "pytest"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["images*", "tests*", "build*", "dist*"]
